@@ -1,8 +1,7 @@
-Requirements Java - 1.8.x
-
-Maven - 3.x.x
-
-Steps to Setup
+1.Requirements: 
+  Java - 1.8.x
+  Maven - 3.x.x
+2.Steps to Setup
 
 Clone the application "git clone https://github.com/Chaiudbbhd/chat_application.git"
 
